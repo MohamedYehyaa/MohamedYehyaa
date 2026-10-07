@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohamed Yehya
 
-### 🤖 AI Automation & n8n Developer
+### 🤖 AI Automation Specialist & Data Analyst
 
 **AI Automation • AI Agents • RAG • Workflow Automation • Data Automation**
 
@@ -39,7 +39,7 @@
 
 ## 🚀 About Me
 
-I'm **Mohamed Yehya**, a Computer Science graduate interested in building
+I'm **Mohamed Yehya**, a Computer Science graduate from Ain Shams University interested in building
 **AI-powered automation systems, intelligent workflows, and data-driven solutions**.
 
 My current focus is **n8n and AI Automation**, where I'm building practical projects
@@ -194,26 +194,26 @@ Power BI, DAX, Power Query/M, and Python data libraries.
 Business Problem
        │
        ▼
-   Understand
+  Understand
        │
        ▼
-   Design Workflow
+ Design Workflow
        │
        ▼
- ┌───────────────┐
- │   n8n / APIs  │
- │      +        │
- │ AI / LLM / RAG│
- └───────────────┘
+┌───────────────┐
+│   n8n / APIs  │
+│       +       │
+│ AI / LLM / RAG│
+└───────────────┘
        │
        ▼
- Data Processing
+Data Processing
        │
        ▼
- Automation
+   Automation
        │
        ▼
- Testing & Optimization
+Testing & Optimization
        │
        ▼
- Reliable Solution
+Reliable Solution
