@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/mohamed-yehya-1040761b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_GMAIL">
+<a href="mailto:mohamedyehya4215@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="YOUR_WHATSAPP_URL">
