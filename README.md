@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Mohamed Yehya
 
-### 🤖 AI Automation Specialist & Data Analyst
+### 🤖 AI Automation Specialist & Data Analyst 📊
 
-**AI Automation • AI Agents • RAG • Workflow Automation • Data Automation**
+**AI Automation • AI Agents & RAG • Data Analysis • BI Dashboards • Workflow Automation**
 
 <p>
-  Building intelligent automation workflows that connect
-  <b>AI, APIs, databases, and business processes</b>.
+  Building intelligent automation workflows and data-driven solutions that connect 
+  <b>AI, APIs, Databases, and Business Analytics</b>.
 </p>
 
 <br>
@@ -39,22 +39,14 @@
 
 ## 🚀 About Me
 
-I'm **Mohamed Yehya**, a Computer Science graduate from Ain Shams University interested in building
-**AI-powered automation systems, intelligent workflows, and data-driven solutions**.
+I'm **Mohamed Yehya**, a Computer Science graduate from **Ain Shams University** specializing in Information Systems. I work as a **Freelance AI Automation Specialist & Data Analyst**, helping businesses automate repetitive workflows and make data-backed strategic decisions.
 
-My current focus is **n8n and AI Automation**, where I'm building practical projects
-that combine:
+I specialize in bridging the gap between **AI Systems** and **Business Data Analytics**:
 
-- 🤖 AI Agents & LLMs
-- 🔄 Workflow Automation
-- 🧠 RAG Systems
-- 🔌 API Integrations
-- 🗄️ Databases & Data Processing
-- 📊 Data Analysis & Business Intelligence
-- 🌐 Web Scraping & Data Extraction
-
-I also have a background in **Data Analysis**, working with Python, SQL, Excel,
-Power BI, DAX, Power Query/M, and Python data libraries.
+- 🤖 **AI Automation & AI Agents:** Building end-to-end automated workflows using **n8n**, connecting **LLMs**, implementing **RAG systems**, and integrating custom **AI Agents** with external services.
+- 🗄️ **Vector Databases & Storage:** Working with **Supabase** and **Pinecone** for efficient vector embeddings retrieval and memory management in AI pipelines.
+- 📊 **Data Analysis & BI:** End-to-end data processing pipelines using **SQL Server**, **Power BI** (DAX & M Language), **Advanced Excel**, and **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
+- 🌐 **Web Scraping:** Automated data extraction pipelines using **Python (BeautifulSoup & Requests)** to feed databases and analysis models.
 
 ---
 
@@ -64,31 +56,29 @@ Power BI, DAX, Power Query/M, and Python data libraries.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Automation
+### 🤖 AI & Workflow Automation
 
 - n8n Workflow Automation
-- AI-powered workflows
-- AI Agents
-- LLM integrations
-- RAG systems
-- API integrations
-- Automated business processes
-- Human-in-the-loop workflows
+- AI Agents & LLM Integrations
+- RAG Systems Implementation
+- Vector DBs (Supabase & Pinecone)
+- API & Webhooks Integration
+- Automated Business Processes
+- Custom Telegram Bots & Chatbots
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Data & Analytics
+### 📊 Data Analysis & BI
 
 - Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Data Visualization
-- SQL Data Analysis
-- Power BI Dashboards
-- DAX
-- Power Query / M
-- Python Data Analysis
+- Exploratory Data Analysis (EDA)
+- Interactive Power BI Dashboards
+- Advanced DAX & Power Query (M)
+- SQL Complex Queries & Data Modeling
+- Python Data Analysis & Visualization
+- Automated Data Pipelines
 
 </td>
 </tr>
@@ -96,27 +86,25 @@ Power BI, DAX, Power Query/M, and Python data libraries.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Scraping
+### 🌐 Web Scraping & Extraction
 
 - Web Data Extraction
-- Requests
-- BeautifulSoup
-- Data Cleaning
-- Structured Data Extraction
-- Automation of data collection
+- Requests & BeautifulSoup
+- Data Preprocessing & Cleaning
+- JSON / CSV Export Pipelines
+- Data Collection Automation
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔗 Integrations & APIs
+### 🔗 APIs & Integrations
 
-- REST APIs
-- API Automation
-- JSON
-- Webhooks
-- Third-party service integrations
-- Connecting AI systems with external services
+- RESTful APIs
+- Third-Party API Integrations
+- JSON Data Handling
+- Webhook Handlers
+- Connecting AI Agents with Databases
 
 </td>
 </tr>
@@ -126,31 +114,33 @@ Power BI, DAX, Power Query/M, and Python data libraries.
 
 # 🛠️ Tech Stack
 
-## 🤖 AI Automation & AI
+## 🤖 AI Automation, AI & Vector DBs
 
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=flat&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Webhooks-FF9800?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs_&_Webhooks-FF9800?style=flat&logoColor=white" />
 </p>
 
-## 🐍 Python & Data
+## 🐍 Python & Data Science Libraries
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
 </p>
 
 ## 📊 Data Analysis & Business Intelligence
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/DAX-512BD4?style=flat&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_Query_%2F_M-217346?style=flat&logo=microsoft&logoColor=white" />
@@ -161,7 +151,7 @@ Power BI, DAX, Power Query/M, and Python data libraries.
 
 <p>
 <img src="https://img.shields.io/badge/Requests-20232A?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup4-4B8BBE?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Web_Scraping-FF6F00?style=flat&logoColor=white" />
 </p>
 
@@ -191,29 +181,27 @@ Power BI, DAX, Power Query/M, and Python data libraries.
 # 🧩 My Approach
 
 ```text
-Business Problem
+Business Problem / Need
        │
        ▼
-  Understand
+  Understand & Define
        │
        ▼
- Design Workflow
+ ┌───────────────────────────┐
+ │ Data & Workflow Strategy │
+ └───────────────────────────┘
        │
-       ▼
-┌───────────────┐
-│   n8n / APIs  │
-│       +       │
-│ AI / LLM / RAG│
-└───────────────┘
-       │
-       ▼
-Data Processing
-       │
-       ▼
-   Automation
-       │
-       ▼
-Testing & Optimization
-       │
-       ▼
-Reliable Solution
+       ├─────────────────────────────┐
+       ▼                             ▼
+┌───────────────┐           ┌───────────────────┐
+│  n8n / APIs   │           │   Data Cleaning   │
+│       +       │           │ SQL / Python / BI │
+│ AI / LLM / RAG│           │   Visualization   │
+└───────────────┘           └───────────────────┘
+       │                             │
+       └──────────────┬──────────────┘
+                      ▼
+            Testing & Optimization
+                      │
+                      ▼
+               Reliable Solution
