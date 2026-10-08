@@ -19,10 +19,10 @@
 <a href="mailto:mohamedyehya4215@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="YOUR_WHATSAPP_URL">
+<a href="https://wa.me/201026785390">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="YOUR_TELEGRAM_URL">
+<a href="https://t.me/MoYehya">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="YOUR_FACEBOOK_URL">
