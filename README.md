@@ -213,10 +213,7 @@ Business Problem / Need
 
 <div align="center">
 
-  <!-- الكارت الأيسر: إحصائيات الحساب العامة -->
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedYehyaa&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" width="49%" />
-
-  <!-- الكارت الأيمن: إحصائيات الـ Streak والالتزام اليومي -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedYehyaa&theme=tokyonight" alt="GitHub Streak" width="49%" />
 
 </div>
